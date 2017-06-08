@@ -1,7 +1,7 @@
 Local Weather Images
 ===========
 
-Alternative images when working with OpenWeatherMap. [OpenWeatherMap weather conditions.](https://openweathermap.org/weather-conditions "Weather Conditions")
+Alternative weather condition images when working with OpenWeatherMap. See [OpenWeatherMap](https://openweathermap.org/weather-conditions "Weather Conditions") for complete list of weather conditions.
 
 ## Getting Started
 
