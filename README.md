@@ -14,6 +14,7 @@ Images can be used in conjunction with [LocalWeatherKit](https://github.com/Anth
 ![](./01d.png)
 ![](./02d.png)
 ![](./10d.png)
+![](./09d.png)
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
