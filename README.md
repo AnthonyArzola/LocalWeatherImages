@@ -1,3 +1,8 @@
+Deprecated
+===========
+This repo has been deprecated and replaced by [OpenWeatherImages](https://github.com/AnthonyArzola/OpenWeatherImages), a Swift Package. 
+
+
 Local Weather Images
 ===========
 
